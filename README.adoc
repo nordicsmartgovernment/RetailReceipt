@@ -1,4 +1,4 @@
-= NSG&B rETAILReceipt 1.0
+= NSG&B RetailReceipt 1.0
 
 This repository contains the resources making up NSG&B RetailReceipt 1.0.
 
